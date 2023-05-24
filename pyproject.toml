@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "binmergetool"
+version = "0.1.0"
+description = "Tool for merging binary files together"
+authors = ["Antoine Jeanson <antoine.j29@free.fr>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.3.0"
+ruff = "^0.0.269"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
