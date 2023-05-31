@@ -2,7 +2,7 @@
 name = "binmergetool"
 version = "0.1.1"
 description = "Tool for merging binary files together"
-authors = ["Antoine Jeanson anonymous@mail.com>"]
+authors = ["Antoine Jeanson <anonymous@mail.com>"]
 license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/antoinejeanson/binmergetool"
