@@ -21,4 +21,4 @@ jobs:
             poetry run black .
         - name: Lint with ruff
           run: |
-            poetry run ruff --format=github check .
+            poetry run ruff check .
