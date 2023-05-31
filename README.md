@@ -3,9 +3,9 @@ Simple tool for merging two binary files together.
 
 # Install
 
-# Usage
-
     pip install binmergetool
+
+# Usage
 
 ## Example: merging Arduino bootloader with application code
 
