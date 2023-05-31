@@ -5,6 +5,8 @@ Simple tool for merging two binary files together.
 
 # Usage
 
+    pip install binmergetool
+
 ## Example: merging Arduino bootloader with application code
 
 In this example, we'll add the Arduino bootloader to a compiled binary file for one-step flashing of microcontrollers.
